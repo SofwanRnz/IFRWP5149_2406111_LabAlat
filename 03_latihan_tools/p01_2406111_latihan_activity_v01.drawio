@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="2SiOuEen3oJkzf5G5byS">
+    <mxGraphModel dx="1240" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IRhLWemLc2ot59t49Z9b-6" edge="1" parent="1" source="IRhLWemLc2ot59t49Z9b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IRhLWemLc2ot59t49Z9b-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-2" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="360" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-8" edge="1" parent="1" source="IRhLWemLc2ot59t49Z9b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IRhLWemLc2ot59t49Z9b-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-5" parent="1" style="whiteSpace=wrap;html=1;" value="Buka daftar peralatan&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-10" edge="1" parent="1" source="IRhLWemLc2ot59t49Z9b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IRhLWemLc2ot59t49Z9b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-7" parent="1" style="whiteSpace=wrap;html=1;" value="Lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="IRhLWemLc2ot59t49Z9b-9" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="360" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
