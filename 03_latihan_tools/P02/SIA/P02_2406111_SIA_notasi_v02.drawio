@@ -1,0 +1,33 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="NznjzwRDbXr-ljvm4sVc">
+    <mxGraphModel dx="556" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-4" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem Informasi Akademik&amp;nbsp;" vertex="1">
+          <mxGeometry height="400" width="435" x="225" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-20" parent="aOFRCnpYFfezP5qY7o_R-4" style="ellipse;" value="kelola jadwal kuliah " vertex="1">
+          <mxGeometry height="80" width="165" x="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-38" edge="1" parent="aOFRCnpYFfezP5qY7o_R-4" source="aOFRCnpYFfezP5qY7o_R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" target="aOFRCnpYFfezP5qY7o_R-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112.5" y="200" />
+              <mxPoint x="112.5" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-41" edge="1" parent="aOFRCnpYFfezP5qY7o_R-4" source="aOFRCnpYFfezP5qY7o_R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aOFRCnpYFfezP5qY7o_R-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-5" parent="aOFRCnpYFfezP5qY7o_R-4" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="35" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aOFRCnpYFfezP5qY7o_R-36" parent="aOFRCnpYFfezP5qY7o_R-4" style="fontStyle=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400; white-space: nowrap;&quot;&gt;Lihat jadwal kuliah&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="175" x="160" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
