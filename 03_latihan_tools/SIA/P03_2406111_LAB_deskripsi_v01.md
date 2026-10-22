@@ -183,3 +183,14 @@ Jika pada langkah 3 validasi gagal (karena prasyarat tidak terpenuhi atau jadwal
 2. Validasi gagal: Proses terhenti di langkah 4 alur alternatif, sistem tidak menyimpan pengajuan. (Konsisten)
 3.  Validasi berhasil dan mahasiswa memilih mengunduh bukti: Pengajuan tersimpan, mencapai extension point, sistem menjalankan perilaku extend (unduh file), lalu proses selesai. (Konsisten)   
 
+<!-- tabel model analisis -->
+|       Sumber       |Hubungan | Tujuan  |
+|--------------------|---------|---------|
+|     Mahasiswa      |Asosiasi |LAB-UC01 |
+|     Mahasiswa      |Asosiasi |LAB-UC03 |
+|     Mahasiswa      |Asosiasi |LAB-UC05 |
+|Petugas_laboratorium|Asosiasi |LAB-UC02 |
+|Petugas_laboratorium|Asosiasi |LAB-UC06 |
+|Kepala_laboratorium |Asosiasi |LAB-UC07 |
+|      LAB-UC03      |«include»|LAB-UC04 |
+|      LAB-UC05      |«extend» |LAB-UC03 |
