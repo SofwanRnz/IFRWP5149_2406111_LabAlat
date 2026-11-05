@@ -1,0 +1,19 @@
+-[☑️]Semua bagian tabel skenario sudah terisi: nama use case, aktor, tujuan, deskripsi, kolom Kegiatan dan Respon sistem, serta Skenario Normal, Skenario Alternative, dan Skenario Akhir.
+-[☑️]Langkah disusun berurutan dengan satu aksi di tiap langkah. Nomor langkah Skenario Alternative melanjutkan nomor Skenario Normal, tanpa ada  nomor yang berulang.
+-[☑️] Kolom Kegiatan hanya memuat tindakan aktor, dan kolom Respon sistem hanya memuat tanggapan sistem.
+-[☑️]Data yang diinput maupun yang ditampilkan disebutkan jelas, lengkap dengan nama field, nilai, atau statusnya.
+-[☑️]Relasi include ditulis sebagai satu langkah rujukan di Skenario Normal yang mencantumkan nama dan ID use case yang disertakan beserta tabel skenarionya. Langkah-langkah use case tersebut tidak disalin ulang.
+-[☑️] Relasi extend ditulis sebagai cabang bersyarat di Skenario Alternative, lengkap dengan condition dan extension point, serta merujuk ke tabel skenario use case tambahannya.
+-[☑️]Generalization aktor sudah diterapkan: skenario aktor umum ditulis sekali, lalu diberi catatan aktor khusus mana yang memakainya. Aktor khusus dengan perilaku sama tidak dibuatkan tabel sendiri.
+-[☑️]Generalization use case sudah diterapkan: skenario umum memuat perilaku bersama, sedangkan skenario khusus hanya memuat perilaku pembedanya dan merujuk ke skenario umum.
+-[☑️]Collaboration dicantumkan pada keterangan tabel use case yang direalisasikannya, tanpa langkah kegiatan tersendiri.
+-[☑️] Setiap tabel memiliki Skenario Alternative dan Skenario Akhir, termasuk use case yang alurnya terlihat sederhana.
+-[☑️] Nama, ID, aktor, condition, dan extension point identik dengan diagram kumulatif Pertemuan 4.
+-[☑️]Catatan pemeriksaan aktor Kepala Laboratorium: aktor ini hanya punya satu use case, yaitu LAB-UC07 Lihat Laporan Peminjaman, dan use case tersebut tidak berelasi dengan use case lain. Karena itu tabel  skenario UC07 berdiri sendiri, tanpa langkah include, extend,  generalization maupun realization.
+-[☑️]Berkas diagram P04 tidak diubah. Dokumen skenario disimpan di folder 01_skenario dengan nama dan versi yang sesuai.
+
+
+
+
+
+
