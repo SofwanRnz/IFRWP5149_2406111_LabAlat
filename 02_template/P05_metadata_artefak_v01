@@ -1,11 +1,11 @@
-ID artefak              : LAB-P02-UC
-Judul                   : USE CASE DIAGRAM DAN USE CASE DESCRIPTION
-Pertemuan               : 04
-Sumber kebutuhan        : LAB-R01; LAB-R02
-Jenis/status            : Use case diagram / LATIHAN NOTASI
+ID artefak              : LAB-P05-UC
+Judul                   : SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+Pertemuan               : 05
+Sumber kebutuhan        : LAB-R01; LAB-R04
+Jenis/status            : Latihan
 Kakas                   : Draw.io
 Pembuat                 : Sofwan Robyansah Nur Zaman 2406111
-Versi dan tanggal       : v01,v02 / 30-10-2026
+Versi dan tanggal       : v01 / 5-11-2026
 Asumsi                  : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan             : [hasil review]
 Riwayat revisi          : [perubahan yang benar-benar dilakukan]
